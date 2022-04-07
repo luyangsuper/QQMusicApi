@@ -106,7 +106,7 @@ const user = {
     res.set('Access-Control-Allow-Credentials', 'true');
     res.send({
       result: 100,
-      data: '操作成功',
+      data: '操作成功!!!',
     })
   },
 
